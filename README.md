@@ -40,3 +40,9 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>Feel free to connect with me or check out my repositories!</i>
+</p>
