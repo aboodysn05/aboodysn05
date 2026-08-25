@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  I'm Abdullah, 3rd Year Computer Science student studying in HTU, currently living in <b>Amman, Jordan</b>.
+  I'm Abdullah, 4th Year Computer Science student studying in HTU, currently living in <b>Amman, Jordan</b>.
 </p>
 
 ---
